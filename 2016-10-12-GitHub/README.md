@@ -1,6 +1,8 @@
-This folder contains the git lesson for Oct. 12, 2016 at the Harvard-Smithsonian Center for Astrophysics.
-
-The website for today's lesson can be found here: [insert link to site]
+### Git lesson for Oct. 12, 2016 at the Harvard-Smithsonian Center for Astrophysics.
+    
+This is the repo used in today's GitHub lesson
+   
+The website for today's workshop can be found here: http://dbouquin.github.io/2016-10-12-cfa-git/
 
 You can read up on the foundation of our exercises here (Software Carpentry): http://swcarpentry.github.io/git-novice/
 
