@@ -2,7 +2,7 @@ This folder contains the git lesson for Oct. 12, 2016 at the Harvard-Smithsonian
 
 The website for today's lesson can be found here: [insert link to site]
 
-You can read up on the software carpentry Git lesson here: http://swcarpentry.github.io/git-novice/
+You can read up on the foundation of our exercises here (Software Carpentry): http://swcarpentry.github.io/git-novice/
 
 We will learn not to do this anymore: https://xkcd.com/1597/
 
