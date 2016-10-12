@@ -4,7 +4,7 @@ This is the repo for material associated with today's GitHub lesson.
    
 The website for today's workshop can be found here: http://dbouquin.github.io/2016-10-12-cfa-git/
 
-The repo used for examples during the workshop is here: [link will be posted after workshop]
+The repo used for examples during the workshop is here: https://github.com/dbouquin/planets_test
 
 You can read up on the foundation of our exercises here (Software Carpentry): http://swcarpentry.github.io/git-novice/
 
