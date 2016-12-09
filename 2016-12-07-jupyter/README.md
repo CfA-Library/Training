@@ -3,6 +3,8 @@
 Resources resulting from the workshop on Dec. 7, 2016 are available in this directory.    
 Materials and instruction for the session were courtesy of Lehman Garrison 
 
+#### Helpful Resources
+
 * Share your notebooks from a Dropbox or Github URL:
 	* [nbviewer.jupyter.org](nbviewer.jupyter.org)
 * An example of very basic Binder:
