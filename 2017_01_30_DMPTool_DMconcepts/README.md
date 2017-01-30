@@ -1,6 +1,6 @@
 # A Brief intro to the DMPTool and other Data Tools: Supporting Scientific Research and Data Management
-## Jan. 30, 2017, 1-2pm
-## Event held at Wolbach Library at the Harvard-Smithsonian Center for Astrophysics
+### Jan. 30, 2017, 1-2pm
+### Event held at Wolbach Library at the Harvard-Smithsonian Center for Astrophysics
 
 Slides are available [online here](http://slides.com/dbouquin/dmptool_013017) and as [PDFs here](link).
 
