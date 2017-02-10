@@ -1,4 +1,4 @@
-## Two-part workshop: 
+## Sherpa, Python, and IRIS Two-part workshop: 
 ###Part 1: Intro to Sherpa, data catalogs access & modeling with IRIS   
 Friday, Jan. 27, 2017   
 9:30-12pm    
