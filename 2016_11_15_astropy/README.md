@@ -1,7 +1,7 @@
 ### Astropy Training through the Wolbach Library
 [Google Doc for the workshop](https://docs.google.com/document/d/14ZScNwn0mecn57A4Tt2YVh1wADXp752Tp73gzpAeUKE/edit)
    
-####Agenda   
+#### Agenda   
 
 10:00 am      
 Introduction: people, goals, strategy  
