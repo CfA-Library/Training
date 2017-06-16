@@ -1,5 +1,5 @@
 ### SketchUp 
-The files contained in this directory were used during two SketchUp training sessions that tool place June 12-13th in Wolbach Library as part of [SketchUp's Visiting Professionals Program](https://www.sketchup.com/programs/visiting-professionals).
+The files contained in this directory were used during two [SketchUp](http://www.sketchup.com/) training sessions that took place June 12-13th in Wolbach Library as part of [SketchUp's Visiting Professionals Program](https://www.sketchup.com/programs/visiting-professionals).
 Examples were catered to astronomy and space-based science use cases.
 
 June 12:
