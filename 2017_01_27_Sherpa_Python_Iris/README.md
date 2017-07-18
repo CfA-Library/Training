@@ -1,8 +1,8 @@
 ## Sherpa, Python, and IRIS Two-part workshop: 
-###Part 1: Intro to Sherpa, data catalogs access & modeling with IRIS   
+### Part 1: Intro to Sherpa, data catalogs access & modeling with IRIS   
 Friday, Jan. 27, 2017   
 9:30-12pm    
-###Part 2: Sherpa and Python    
+### Part 2: Sherpa and Python    
 Friday, Feb. 3, 2017    
 9:30-12pm    
 ### Location: Wolbach Library at the Harvard-Smithsonian Center for Astrophysics
