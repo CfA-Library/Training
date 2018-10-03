@@ -1,1 +1,0 @@
-This is a placeholder for documentation for events presented at Wolbach Library through 2018.
